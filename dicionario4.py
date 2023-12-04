@@ -57,7 +57,7 @@ def main():
         print("3. Excluir veículo")
         print("4. Sair")
 
-        escolha = input("Escolha a opção (1/2/3/4): ")
+        escolha = input("Escolha uma das opção: ")
 
         if escolha == '1':
             cadastro(VEICULOS)
